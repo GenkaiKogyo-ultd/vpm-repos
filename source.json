@@ -1,6 +1,6 @@
 {
     "name" : "GenkaiKogyo-ultd VPM Repos",
-    "id":"io.github.genkaiKogyo-ultd.vpm-repos",
+    "id" : "com.genkaikogyo-ultd.vpm",
     "author" : {
         "name" : "GenkaiKogyo-ultd",
         "url" : "https://github.com/GenkaiKogyo-ultd"
@@ -10,7 +10,7 @@
         "text" : "View on GitHub"
     },
     "bannerUrl" : "banner.png",
-    "url" : "https://genkaiKogyo-ultd.github.io/vpm-repos/index.json",
+    "url" : "https://vpm.genkaikogyo-ultd.com/index.json",
     "githubRepos" : [ 
         "GenkaiKogyo-ultd/PortalLibrarySystem"
     ],
