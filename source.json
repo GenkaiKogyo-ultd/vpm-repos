@@ -1,18 +1,18 @@
 {
-	"name" : "GenkaiKogyo-ultd VPM Repos",
-	"id":"io.github.genkaiKogyo-ultd.vpm-repos",
-	"author" : {
-		"name" : "GenkaiKogyo-ultd",
+    "name" : "GenkaiKogyo-ultd VPM Repos",
+    "id":"io.github.genkaiKogyo-ultd.vpm-repos",
+    "author" : {
+        "name" : "GenkaiKogyo-ultd",
         "url" : "https://github.com/GenkaiKogyo-ultd"
-	},
-	"infoLink" : {
-		"url" : "https://github.com/GenkaiKogyo-ultd/vpm-repos",
-		"text" : "View on GitHub"
-	},
-	"bannerUrl" : "banner.png",
-	"url" : "https://genkaiKogyo-ultd.github.io/vpm-repos/index.json",
-	"githubRepos" : [ 
+    },
+    "infoLink" : {
+        "url" : "https://github.com/GenkaiKogyo-ultd/vpm-repos",
+        "text" : "View on GitHub"
+    },
+    "bannerUrl" : "banner.png",
+    "url" : "https://genkaiKogyo-ultd.github.io/vpm-repos/index.json",
+    "githubRepos" : [ 
         "GenkaiKogyo-ultd/PortalLibrarySystem"
     ],
-	"packages" : []
+    "packages" : []
 }
